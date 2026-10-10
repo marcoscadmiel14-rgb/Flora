@@ -1,0 +1,13 @@
+node_modules/
+dist/
+coverage/
+e2e/out/
+*.log
+.DS_Store
+# Android build outputs (project sources are committed)
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+android/capacitor-cordova-android-plugins/build/
